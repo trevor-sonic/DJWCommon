@@ -19,18 +19,15 @@ open class DJWCommonAlert: NSObject {
         
         DJWCommonAlert.alertMessageController = UIAlertController(title: titleMessage,
                                                                   message: alertMsg,
-                                                                  preferredStyle: UIAlertControllerStyle.alert)
+                                                                  preferredStyle: UIAlertController.Style.alert)
         
-        DJWCommonAlert.alertMessageController.addAction(UIAlertAction(title: "OK", style: UIAlertActionStyle.default,handler: nil))
+        DJWCommonAlert.alertMessageController.addAction(UIAlertAction(title: "OK", style: UIAlertAction.Style.default,handler: nil))
+        
         if let controller = UIApplication.shared.keyWindow?.rootViewController?.presentedViewController {
-            controller.present(DJWCommonAlert.alertMessageController,
-                               animated: true,
-                               completion: nil)
+            controller.present(DJWCommonAlert.alertMessageController, animated: true, completion: nil)
         }
-        else{
-            UIApplication.shared.delegate?.window!!.rootViewController?.present(DJWCommonAlert.alertMessageController,
-                                                                                animated: true,
-                                                                                completion: nil)
+        else if let controller = UIApplication.shared.delegate?.window??.rootViewController{
+            controller.present(DJWCommonAlert.alertMessageController,animated: true, completion: nil)
         }
         
         return

@@ -9,6 +9,7 @@ import Foundation
 import UIKit
 
 @objc public protocol  DJWButtonWithGesturesDelegate:class {
+    @objc optional func relativePoint(_ distance:CGPoint, sender:UIButton)
     @objc optional func slidePoint(_ distance:CGPoint, sender:UIButton)
     @objc optional func startPoint(_ point:CGPoint, sender:UIButton)
     @objc optional func endPoint  (_ point:CGPoint, sender:UIButton)
@@ -28,6 +29,7 @@ open class DJWButtonWithGestures: UIButton {
     
     private var firstTouchLocation:CGPoint!
     private var isSlided    = false
+    private var isTouchStarted = false
     private var longPressRecognizer:UILongPressGestureRecognizer?
     
 
@@ -62,7 +64,7 @@ open class DJWButtonWithGestures: UIButton {
         super.touchesBegan(touches, with: event)
         firstTouchLocation = getLocation(touches)
         isSlided = false
-        
+        isTouchStarted = true
         if let startPointFunc = delegate?.startPoint{
             startPointFunc(firstTouchLocation, self)
         }
@@ -77,8 +79,9 @@ open class DJWButtonWithGestures: UIButton {
             if toggleMode {
                 isSelected = !isSelected
             }
-            if let tapReleaseFunc = delegate?.tapRelease{
+            if let tapReleaseFunc = delegate?.tapRelease, isTouchStarted {
                 tapReleaseFunc(self)
+                isTouchStarted = false
             }
         }
         
@@ -87,6 +90,10 @@ open class DJWButtonWithGestures: UIButton {
     override open func touchesMoved(_ touches: Set<UITouch>, with event: UIEvent?) {
         super.touchesMoved(touches, with: event)
         let location = getLocation(touches)
+        
+        if let relativePointFunc = delegate?.relativePoint{
+            relativePointFunc(location, self)
+        }
         
         if let slidePointFunc = delegate?.slidePoint{
             let distance = CGPoint(x: location.x - firstTouchLocation.x, y: location.y - firstTouchLocation.y)

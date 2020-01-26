@@ -14,7 +14,7 @@ open class DJWBaseFileService: NSObject {
  
     /////////////////////////////////////////////////////////////
     // MARK: - Init File system
-    required override public init() {
+    override public init() {
         super.init()
         print("init CommonFS")
         print("\ndocsURL.path: \(docsURL.path)")
