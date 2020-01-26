@@ -1,3 +1,3 @@
 # DJWCommon
 
-A description of this package.
+DejaWorks Common vars and functions.
