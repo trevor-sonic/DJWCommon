@@ -24,7 +24,6 @@ open class DJWBaseFileService: NSObject {
         let fileManager = FileManager.default
         let dirPaths    = fileManager.urls(for: .documentDirectory, in: .userDomainMask)
         let dURL        = dirPaths[0]
-        //print("lazy var docsURL: (init here)")
         return dURL
     }()
     
