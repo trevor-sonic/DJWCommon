@@ -1,0 +1,243 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DJWBaseFileService"
+provides-nominal:
+- "9DJWCommon18DJWBaseFileServiceC"
+provides-member:
+- ["9DJWCommon18DJWBaseFileServiceC", ""]
+provides-dynamic-lookup:
+- "$__lazy_storage_$_docsURL"
+- "$__lazy_storage_$_tmpURL"
+- "docsURL"
+- "fm"
+- "tmpURL"
+depends-top-level:
+- "CastingPrecedence"
+- "DJWBaseFileService"
+- "FileManager"
+- "FloatLiteralType"
+- "IntegerLiteralType"
+- "NSObject"
+- "NSTemporaryDirectory"
+- !private "StringLiteralType"
+- "URL"
+- !private "print"
+depends-member:
+- ["Sa", "subscript"]
+- ["SK", "subscript"]
+- ["s7CVarArgP", "FileManager"]
+- ["s7CVarArgP", "NSTemporaryDirectory"]
+- ["s7CVarArgP", "URL"]
+- ["s7CVarArgP", ""]
+- ["s7CVarArgP", "default"]
+- !private ["s7CVarArgP", "docsURL"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "print"]
+- ["s7CVarArgP", "subscript"]
+- ["s7CVarArgP", "urls"]
+- ["Sl", "subscript"]
+- ["10Foundation15ContiguousBytesP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "FileManager"]
+- ["s28CustomDebugStringConvertibleP", "NSTemporaryDirectory"]
+- ["s28CustomDebugStringConvertibleP", "URL"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "default"]
+- !private ["s28CustomDebugStringConvertibleP", "docsURL"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "path"]
+- !private ["s28CustomDebugStringConvertibleP", "print"]
+- ["s28CustomDebugStringConvertibleP", "subscript"]
+- ["s28CustomDebugStringConvertibleP", "urls"]
+- ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "FileManager"]
+- ["s23CustomStringConvertibleP", "NSTemporaryDirectory"]
+- ["s23CustomStringConvertibleP", "URL"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "default"]
+- !private ["s23CustomStringConvertibleP", "docsURL"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "path"]
+- !private ["s23CustomStringConvertibleP", "print"]
+- ["s23CustomStringConvertibleP", "subscript"]
+- ["s23CustomStringConvertibleP", "urls"]
+- !private ["9DJWCommon18DJWBaseFileServiceC", "$__lazy_storage_$_docsURL"]
+- !private ["9DJWCommon18DJWBaseFileServiceC", "$__lazy_storage_$_tmpURL"]
+- ["9DJWCommon18DJWBaseFileServiceC", "FileManager"]
+- ["9DJWCommon18DJWBaseFileServiceC", "NSTemporaryDirectory"]
+- ["9DJWCommon18DJWBaseFileServiceC", "URL"]
+- ["9DJWCommon18DJWBaseFileServiceC", "deinit"]
+- ["9DJWCommon18DJWBaseFileServiceC", "docsURL"]
+- ["9DJWCommon18DJWBaseFileServiceC", "fm"]
+- ["9DJWCommon18DJWBaseFileServiceC", "init"]
+- !private ["9DJWCommon18DJWBaseFileServiceC", "print"]
+- ["9DJWCommon18DJWBaseFileServiceC", "tmpURL"]
+- ["10Foundation12DataProtocolP", "subscript"]
+- ["Se", "init"]
+- !private ["Se", "path"]
+- ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SE", "init"]
+- !private ["SE", "path"]
+- ["SE", "subscript"]
+- ["SQ", "FileManager"]
+- ["SQ", "NSTemporaryDirectory"]
+- ["SQ", "URL"]
+- ["SQ", ""]
+- ["SQ", "default"]
+- !private ["SQ", "docsURL"]
+- ["SQ", "documentDirectory"]
+- ["SQ", "init"]
+- !private ["SQ", "path"]
+- !private ["SQ", "print"]
+- ["SQ", "subscript"]
+- ["SQ", "urls"]
+- ["SQ", "userDomainMask"]
+- ["s25ExpressibleByArrayLiteralP", "subscript"]
+- ["s25ExpressibleByArrayLiteralP", "userDomainMask"]
+- ["So13NSFileManagerC", "default"]
+- ["So13NSFileManagerC", "urls"]
+- ["SH", "FileManager"]
+- ["SH", "NSTemporaryDirectory"]
+- ["SH", "URL"]
+- ["SH", ""]
+- ["SH", "default"]
+- !private ["SH", "docsURL"]
+- ["SH", "documentDirectory"]
+- ["SH", "init"]
+- !private ["SH", "path"]
+- !private ["SH", "print"]
+- ["SH", "subscript"]
+- ["SH", "urls"]
+- ["SM", "subscript"]
+- ["10Foundation19MutableDataProtocolP", "subscript"]
+- ["So8NSObjectC", "$__lazy_storage_$_docsURL"]
+- ["So8NSObjectC", "$__lazy_storage_$_tmpURL"]
+- ["So8NSObjectC", "FileManager"]
+- ["So8NSObjectC", "NSTemporaryDirectory"]
+- ["So8NSObjectC", "URL"]
+- ["So8NSObjectC", ""]
+- ["So8NSObjectC", "default"]
+- ["So8NSObjectC", "docsURL"]
+- ["So8NSObjectC", "fm"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "print"]
+- ["So8NSObjectC", "tmpURL"]
+- ["So8NSObjectC", "urls"]
+- ["So8NSObjectP", "FileManager"]
+- ["So8NSObjectP", "NSTemporaryDirectory"]
+- ["So8NSObjectP", "URL"]
+- ["So8NSObjectP", ""]
+- ["So8NSObjectP", "default"]
+- !private ["So8NSObjectP", "docsURL"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "print"]
+- ["So8NSObjectP", "urls"]
+- ["s9OptionSetP", "userDomainMask"]
+- ["Sk", "subscript"]
+- ["Sm", "subscript"]
+- ["SY", "documentDirectory"]
+- ["SY", "userDomainMask"]
+- ["10Foundation20ReferenceConvertibleP", "init"]
+- !private ["10Foundation20ReferenceConvertibleP", "path"]
+- ["So21NSSearchPathDirectoryV", "documentDirectory"]
+- ["So22NSSearchPathDomainMaskV", "userDomainMask"]
+- ["ST", "subscript"]
+- ["s10SetAlgebraP", "userDomainMask"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- ["10Foundation3URLV", "init"]
+- !private ["10Foundation3URLV", "path"]
+- ["s14_ArrayProtocolP", "subscript"]
+- ["s30_CustomPlaygroundQuickLookableP", "init"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "path"]
+- ["s24_DestructorSafeContainerP", "subscript"]
+- ["s34_ExpressibleByFileReferenceLiteralP", "init"]
+- !private ["s34_ExpressibleByFileReferenceLiteralP", "path"]
+- ["s19_HasContiguousBytesP", "subscript"]
+- ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "FileManager"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "NSTemporaryDirectory"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "URL"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- ["10Foundation27_KeyValueCodingAndObservingP", "default"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "docsURL"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "print"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "urls"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "FileManager"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "NSTemporaryDirectory"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "URL"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "default"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "docsURL"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "init"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "print"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", "urls"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "path"]
+- ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- "Sa"
+- "SK"
+- "s7CVarArgP"
+- "Sl"
+- "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "9DJWCommon18DJWBaseFileServiceC"
+- "10Foundation12DataProtocolP"
+- "Se"
+- !private "s26DefaultStringInterpolationV"
+- "SE"
+- "SQ"
+- "s25ExpressibleByArrayLiteralP"
+- "So13NSFileManagerC"
+- "SH"
+- "SM"
+- "10Foundation19MutableDataProtocolP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- "s9OptionSetP"
+- "Sk"
+- "Sm"
+- "SY"
+- "10Foundation20ReferenceConvertibleP"
+- "So21NSSearchPathDirectoryV"
+- "So22NSSearchPathDomainMaskV"
+- "ST"
+- "s10SetAlgebraP"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- "10Foundation3URLV"
+- "s14_ArrayProtocolP"
+- "s30_CustomPlaygroundQuickLookableP"
+- "s24_DestructorSafeContainerP"
+- "s34_ExpressibleByFileReferenceLiteralP"
+- "s19_HasContiguousBytesP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWBuilderNS.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/Swift.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/SwiftOnoneSupport.swiftmodule/x86_64-apple-macos.swiftmodule"
+- "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWBuilderNS.build/module.modulemap"
+- "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "34bfecbe508916328b729242e2527337"

@@ -1,0 +1,53 @@
+{
+  "": {
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/master.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWAnimation.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWAnimation.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWAnimation.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWAnimation~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWAnimation.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWBaseFileService.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWBaseFileService.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWBaseFileService.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWBaseFileService~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWBaseFileService.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWButtonWithGestures.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWButtonWithGestures.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWButtonWithGestures.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWButtonWithGestures~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWButtonWithGestures.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWCommon.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommon.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommon.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommon~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommon.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWCommonAlert.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommonAlert.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommonAlert.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommonAlert~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommonAlert.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWGlobalVars.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWGlobalVars.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWGlobalVars.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWGlobalVars~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWGlobalVars.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWRoundCornerBorderedView.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWRoundCornerBorderedView.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWRoundCornerBorderedView.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWRoundCornerBorderedView~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWRoundCornerBorderedView.swiftdeps"
+  },
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWTypealias.swift": {
+    "dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWTypealias.d",
+    "object": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWTypealias.swift.o",
+    "swiftmodule": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWTypealias~partial.swiftmodule",
+    "swift-dependencies": "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWTypealias.swiftdeps"
+  }
+}

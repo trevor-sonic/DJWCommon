@@ -1,0 +1,26 @@
+{
+  "allExecutables" : [
+
+  ],
+  "builtTestProducts" : [
+    {
+      "packageName" : "DJWCommon",
+      "productName" : "DJWCommonPackageTests",
+      "testBinary" : "\/Users\/dejaworks\/Library\/Mobile Documents\/com~apple~CloudDocs\/Dev\/iOS\/Projects\/DJWLibrary\/DJWCommon\/.build\/x86_64-apple-macosx\/debug\/DJWCommonPackageTests.xctest\/Contents\/MacOS\/DJWCommonPackageTests"
+    }
+  ],
+  "copyCommands" : {
+
+  },
+  "rootExecutables" : [
+
+  ],
+  "swiftTargetMap" : {
+    "C.DJWBuilderNS-debug.module" : "DJWBuilderNS",
+    "C.DJWCommon-debug.module" : "DJWCommon",
+    "C.DJWCommonTests-debug.module" : "DJWCommonTests"
+  },
+  "testDiscoveryCommands" : {
+
+  }
+}

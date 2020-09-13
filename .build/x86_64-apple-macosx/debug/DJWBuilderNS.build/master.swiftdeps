@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "54c3af2a84930d88839721fc3eb0c7e3"
+build_time: [1600009829, 532812000]
+inputs:
+  "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/checkouts/DJWBuilderNS/Sources/DJWBuilderNS/DJWBuilderNS.swift": [1600009827, 779016918]

@@ -1,0 +1,1 @@
+{"object": {"dependencies": [{"basedOn": null, "packageRef": {"identity": "djwbuilderns", "kind": "remote", "name": "DJWBuilderNS", "path": "https://gitlab.com/trevorsonic/DJWBuilderNS.git"}, "state": {"checkoutState": {"branch": null, "revision": "83943404d91560945018d2e26c39fb331f803082", "version": "1.0.0"}, "name": "checkout"}, "subpath": "DJWBuilderNS"}]}, "version": 3}
