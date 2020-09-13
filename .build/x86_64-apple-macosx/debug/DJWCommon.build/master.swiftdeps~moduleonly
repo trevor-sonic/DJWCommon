@@ -1,6 +1,6 @@
 version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
 options: "7acb6829c0d79797e866888876abc6a2"
-build_time: [1600011077, 605502000]
+build_time: [1600012076, 465327000]
 inputs:
   "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWAnimation.swift": !dirty [1589552437, 415792040]
   "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/Sources/DJWCommon/DJWBaseFileService.swift": !dirty [1599591849, 749835771]
