@@ -11,9 +11,3 @@ project.xcworkspace
 xcuserdata
 .DS_Store
 .swiftpm
-Package.resolved
-.build/
-project.xcworkspace
-xcuserdata
-.DS_Store
-.swiftpm
