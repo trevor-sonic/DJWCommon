@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DJWBuilderNS",
+        "repositoryURL": "https://gitlab.com/trevorsonic/DJWBuilderNS.git",
+        "state": {
+          "branch": null,
+          "revision": "d150c778b1a78cc3aed340f97c93dd0fc9d33d32",
+          "version": "1.0.23"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
