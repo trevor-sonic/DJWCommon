@@ -1,4 +1,0 @@
-module DJWCommon {
-    header "/Users/dejaworks/Library/Mobile Documents/com~apple~CloudDocs/Dev/iOS/Projects/DJWLibrary/DJWCommon/.build/x86_64-apple-macosx/debug/DJWCommon.build/DJWCommon-Swift.h"
-    requires objc
-}
