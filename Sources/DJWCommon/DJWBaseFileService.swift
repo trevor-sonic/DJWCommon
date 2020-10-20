@@ -20,10 +20,12 @@ open class DJWBaseFileService: NSObject {
         print("\ndocsURL.path: \(docsURL.path)")
     }
     /////////////////////////////////////////////////////////////
+    
+    
     public lazy var docsURL: URL = {
         let fileManager = FileManager.default
         let dirPaths    = fileManager.urls(for: .documentDirectory, in: .userDomainMask)
-        let dURL        = dirPaths[0]
+        let dURL        = dirPaths.first!
         return dURL
     }()
     
@@ -33,4 +35,10 @@ open class DJWBaseFileService: NSObject {
         return td
     }()
     
+    public lazy var libraryURL: URL = {
+        let fileManager = FileManager.default
+        let dirPaths    = fileManager.urls(for: .libraryDirectory, in: .userDomainMask)
+        let dURL        = dirPaths.first!
+        return dURL
+    }()
 }
