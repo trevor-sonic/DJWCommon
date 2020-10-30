@@ -9,6 +9,7 @@ import Foundation
 
 public typealias ClosureBasic = (()->Void)
 public typealias ClosureWith<T> = ((T)->Void)
+public typealias ClosureResult<T, E> = ((Result<T, E>)->Void)
 
 
 
